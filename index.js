@@ -1,6 +1,6 @@
 $(document).ready(function() {
 
-    var api = "http://starlord.hackerearth.com/movieslisting";
+    var api = "https://starlord.hackerearth.com/movieslisting";
     var movieData;
 
     $.ajax({
